@@ -1,11 +1,12 @@
 # TEXT EDITOR
 
-Use this application online or as a PWA.
+A text editor application that you can use online or offine. With a storage using indexDB. 
 
 ## Installation
 
 * Clone this repo onto your local machine
-* Download node, Express, Babel, CSS Loader, Webpack plugin, Webpack, workbox webpack plug in. 
+* Run `npm install` to install node, Express, Babel, CSS Loader, Webpack plugin, Webpack, workbox webpack plug in. 
+
 
 ## Contribution
 
