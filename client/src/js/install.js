@@ -28,3 +28,4 @@ window.addEventListener('appinstalled', (event) => {
     console.log('👍', 'appinstalled', event);
     window.deferredPrompt = null;
 });
+
